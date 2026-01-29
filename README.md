@@ -1,2 +1,2 @@
-# Daireader
-A customized dairy reader made with dart.
+# Diareader
+A customized diary reader made with dart.
